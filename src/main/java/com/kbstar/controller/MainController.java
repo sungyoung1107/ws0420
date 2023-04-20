@@ -4,6 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/* ws0420 */
 @Controller
 public class MainController {
     @RequestMapping("/")
